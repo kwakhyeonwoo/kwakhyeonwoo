@@ -1,4 +1,4 @@
-## Hi 👋 I'm Hyun
+## Hi 👋 I'm Hyeon
 
 <!--
 **kwakhyeonwoo/kwakhyeonwoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
