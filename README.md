@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kwakhyeonwoo&layout=compact)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwakhyeonwoo](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwakhyeonwoo)](https://github.com/anuraghazra/github-readme-stats)
+
 
 모바일 개발을 하고 있습니다.
